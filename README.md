@@ -21,7 +21,3 @@
 </div>
 ##
   
-<div>  
-  ![Snake animation](https://github.com/emmnesty/emmnesty/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
