@@ -9,7 +9,7 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-     - color_snake:006400	
+     - color_snake:C71585	
     steps:
       # Snake Animation
       - uses: Platane/snk@master
