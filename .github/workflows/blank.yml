@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
      - color_snake:C71585	
     steps:
-      # Snake Animation
+      # Snake Animation.
       - uses: Platane/snk@master
         id: snake-gif
         with:
